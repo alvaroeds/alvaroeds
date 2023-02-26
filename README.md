@@ -3,7 +3,7 @@
 
 ## More About Me:
 
-- 🔭 I’m currently working on [Dinamo](https://dinamo.app)
+- 🔭 I’m currently working on [Dinamo](https://dinamo.app), [Pedido Listo](https://pedidolisto.app)
 - 🌱 I’m currently learning **Hugo, Github actions**
 - 🤝 &nbsp;I like to talk about **Blockchain** and **Crypto**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/alvaroeds?tab=repositories)
