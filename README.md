@@ -3,9 +3,9 @@
 
 ## More About Me:
 
-- 🔭 I’m currently working on [Dinamo](https://dinamo.app), [Pedido Listo](https://pedidolisto.app)
+- 🔭 I’m currently working on [Pedido Listo](https://pedidolisto.com)
 - 🌱 I’m currently learning **Hugo, Github actions**
-- 🤝 &nbsp;I like to talk about **Blockchain** and **Crypto**
+- 🤝 &nbsp;I like to talk about **Tech**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/alvaroeds?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📚 &nbsp; When I'm free, I read books, exercise, play video games, and watch TV series.
@@ -39,7 +39,7 @@
 
 <h2 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alvaroeds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alvaroeds" height="30" width="40" /></a>
+<a href="https://x.com/alvaroeds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alvaroeds" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alvaroeds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvaroeds" height="30" width="40" /></a>
 <!-- <a href="https://www.youtube.com/c/alvaroeds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alvaroeds" height="30" width="40" /></a>
 </p> -->
